@@ -2711,9 +2711,9 @@ img{
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/mountain.jpeg"), url("images/mountain.jpeg");
+		background-image: url("images/aisth.jpg"), url("images/aisth.jpg");
 		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
+		background-repeat: no-repeat,								no-repeat;
 		background-size: auto,								150%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;

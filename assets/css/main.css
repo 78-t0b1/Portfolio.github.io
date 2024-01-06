@@ -85,7 +85,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #f7fcf7;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -100,7 +101,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #01281c;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -124,8 +125,9 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #787878;
-		font-weight: 400;
+		color: #00435f;
+		font-weight: 600;
+		
 	}
 
 	em, i {
@@ -137,7 +139,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #6c4545;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -2711,7 +2713,7 @@ img{
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/aisth.jpg"), url("images/aisth.jpg");
+		background-image: url("https://i.pinimg.com/564x/ea/86/ea/ea86ea05188b1f261d899635239cf4dd.jpg"), url("https://i.pinimg.com/564x/ea/86/ea/ea86ea05188b1f261d899635239cf4dd.jpg");
 		background-position: top left,							top left;
 		background-repeat: no-repeat,								no-repeat;
 		background-size: auto,								150%;

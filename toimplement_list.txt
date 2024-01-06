@@ -1,0 +1,5 @@
+6 Jan 2024
+1. add table in education for relevant subjects.
+2. Change content of Who am I?
+3. Change content of About section.
+4. Add subject bar on top to navigate.

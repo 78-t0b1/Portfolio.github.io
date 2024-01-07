@@ -106,6 +106,7 @@ input, select, textarea {
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
+
 	}
 
 	a {
@@ -136,6 +137,8 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		text-align: justify;
+		text-justify: inter-word;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2749,6 +2752,8 @@ img{
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
+			text-align: justify;
+			text-justify: inter-word;
 		}
 
 		#header h1 {

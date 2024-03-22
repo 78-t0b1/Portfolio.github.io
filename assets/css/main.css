@@ -1893,7 +1893,7 @@ input, select, textarea {
 
 	header h3 + p {
 		font-size: 1.1em;
-		margin-top: -0.8em;
+		margin-top: auto;
 		line-height: 1.5em;
 	}
 
